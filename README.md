@@ -58,6 +58,3 @@ KPR Institute of Engineering and Technology
 
 **Project:** AGRINOVA
 **Domain:** Mechatronics, Robotics, AI and IoT
-
-
-*Note: Features described as proposed or under development should not be interpreted as fully validated until implementation and field testing are complete.*
